@@ -27,3 +27,7 @@ h1 {
 .pi-secondary-background {
     background: #ab1fe2 var(--pi-secondary-background);
 }
+
+h5 {
+    color: #ab1fe2;
+}
